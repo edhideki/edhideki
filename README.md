@@ -1,5 +1,5 @@
-### Hi there, I'm Edgar Hideki 👋
-# SC900 | SC300 | AZ900 | AZ104 | AZ305 
+## Hi there, I'm Edgar Hideki 👋
+#### SC900 | SC300 | AZ900 | AZ104 | AZ305 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgar-hideki/)](https://www.linkedin.com/in/edgar-hideki/)
 
