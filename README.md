@@ -1,4 +1,4 @@
-### Hi there, I'm Edgar Hideki" 👋
+### Hi there, I'm Edgar Hideki 👋
 AZ900 | AZ104 | AZ305
 
 SC900 | SC300
