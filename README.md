@@ -1,6 +1,8 @@
 ## Hi there, I'm Edgar Hideki 👋
 #### SC900 | SC300 | AZ900 | AZ104 | AZ305 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edhideki&show_icons=true&theme=radical)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgar-hideki/)](https://www.linkedin.com/in/edgar-hideki/)
 
 ### About me
